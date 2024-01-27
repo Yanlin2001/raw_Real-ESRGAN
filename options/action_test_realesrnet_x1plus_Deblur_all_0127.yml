@@ -99,7 +99,7 @@ datasets:
       type: disk
 
   val2:
-    name: validation
+    name: validation2
     type: PairedImageDataset
     dataroot_gt: datasets/origin1380
     dataroot_lq: datasets/origin1380
