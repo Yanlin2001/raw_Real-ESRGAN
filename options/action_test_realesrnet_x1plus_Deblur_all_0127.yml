@@ -98,7 +98,7 @@ datasets:
     io_backend:
       type: disk
 
-  val2:
+  val_2:
     name: validation2
     type: PairedImageDataset
     dataroot_gt: datasets/origin1380
